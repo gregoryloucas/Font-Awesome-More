@@ -3,4 +3,4 @@ Font Awesome More
 
 Font Awesome More is now Fontstrap!
 
-Go to https://github.com/gregoryloucas/Fontstrap
+Go to http://github.com/gregoryloucas/Fontstrap
